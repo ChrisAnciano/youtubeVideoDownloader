@@ -1,1 +1,2 @@
 # youtubeVideoDownloader
+This program uses the pytube library to download YouTube videos. It prompts the user to enter a YouTube video URL and then opens a file dialog using tkinter to select a folder to save the downloaded video. If a folder is selected, it downloads the video to that location. The program provides a simple graphical interface for downloading YouTube videos and saving them to a specified folder on the user's computer.
